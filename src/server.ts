@@ -1,4 +1,5 @@
 import * as errorHandler from "errorhandler";
+import * as sequelize from "./services/PostgresService";
 
 const app = require("./app");
 

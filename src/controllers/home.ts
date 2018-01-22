@@ -1,4 +1,5 @@
 import { Request, Response } from "express";
+import * as User from "../models/User";
 
 /**
  * GET /
